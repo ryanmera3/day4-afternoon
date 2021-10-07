@@ -1,0 +1,51 @@
+.wordspace{
+  word-spacing: 20px;
+}
+
+.btn1:hover{
+  background-color: white;
+  color: hsl(120, 74%, 12%);
+}
+
+section{
+  min-height: 30vh;
+}
+
+.bg-tractor{
+  background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(56, 55, 55, 0.459) ), url('https://s3-alpha-sig.figma.com/img/5372/9925/de8868934e906adf77e6f7cd24dcbf53?Expires=1634515200&Signature=QV6gXZYBLGBdlAFHPT5VDbAoGIBN~ymdihiU9czuHPylW73ZazPENkRkGFxNlc4r6rZgRJhHtW2sGwXiF97lI8cRv5sh2QHEjRIY3wT~OFXpj1sZr6FTYBCHuHdOT24nPP2vlRfdfrd64XhHQq6NiizOjcaCkBH0KL7~TXKC9aZPUttWMbeSzPyUiYhDw2eyoEYOFk-qGTNP1XKnj57HVB2gIw6yCc2kH5BbQQQzWXyRmuORa44dpZMsdC4B8CqcFwZqKKSOfB-Zq1Dr-vuQmUYanP11eJApx8YVSl7iomma~4z806OL1i03-g5urMSydJS8jxrCHARbrJk205-gfQ__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA');
+
+  background-size: cover;
+  background-position: center;
+}
+
+.btn2:hover{
+  color: orange;
+}
+
+
+.height{
+  height: 40vh;
+}
+
+
+.object-fit{
+  object-fit: cover;
+}
+
+.text-shadow{
+  text-shadow: 3px 3px black;
+}
+
+.btn-background{
+  border:none;
+}
+
+.tractor1{
+  background-image: url(https://s3-alpha-sig.figma.com/img/2622/0868/8fd6fbd7c569494e562d7db250803872?Expires=1634515200&Signature=TjUwQxeBkeWYNHtBX8qxjRvgpkFwXNRos-2ysrqM~rVZRG~deMLkABGEigmHe0ZCMgPVXG-eij58pcuMZQQFnRtmKJgmolYZ4eZzDiY3SH3Z~aFry3gau0bHBOcCtMa3P8IhRbKKTUk4rAnmURp73uRKpa5PJfpmR70nXpoQ3RVkrt3a818fRj1W9a9DLljj~bhI-K1ek9QEAlxgxfGsAbh0aQfSSfbrsKJZjKyhiKy0xgq6KTEQaMp3JEsuxkvLbbqbijL~05ITHC~ViTLi8Rt7L4TXV023dIMh02vIX2rJVg~cO08Mw-tOeRNrKAIcp5yQaLaIyObCnNvj~syWsw__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA);
+  background-size: cover;
+  background-position: center;
+}
+
+.first-txt{
+  position:absolue;
+}
